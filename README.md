@@ -4,6 +4,8 @@
 
 Este repositório contém os arquivos do site institucional e da landing page de inscrição para o minicurso de IA — uma das primeiras ações educativas do projeto.
 
+![Descrição da imagem](https://link-para-imagem.com/imagem.png)
+
 ## ✨ Objetivos
 
 - Conectar adultos 50+ ao universo da IA de forma simples e humana.
