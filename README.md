@@ -4,7 +4,7 @@
 
 Este repositório contém os arquivos do site institucional e da landing page de inscrição para o minicurso de IA — uma das primeiras ações educativas do projeto.
 
-![Descrição da imagem](https://link-para-imagem.com/imagem.png)
+![Descrição da imagem](https://github.com/profamar/ms-humanize-ai-site/blob/main/ChatGPT%20Image%2029%20de%20abr.%20de%202025%2C%2019_53_50.png)
 
 ## ✨ Objetivos
 
